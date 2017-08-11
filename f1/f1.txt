@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master2
-=======
-master222
->>>>>>> dev
+Dev

@@ -1,0 +1,15 @@
+Dovrler:
+
+for while , for do while, for each. operatorlar:
+
+for (int i = 0; i < 3 : i++)
+{
+	Console.Writeline(i);
+	
+	
+}
+Console.Readkey();
+
+i++ == i=i+1
+
+	

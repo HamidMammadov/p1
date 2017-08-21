@@ -1,0 +1,29 @@
+faylin tipi - <!DOCTYPE html>
+
+scriplerin sehifenin arxa planinda isliyen kodlar  	<head>  </head>  olur 
+
+istifadeciye lazim olanlar 	<body> </body> - de olur
+
+yaradilan sehifenin neye aid oldugu <head>  	
+					<title> ...</title> 
+				    </head> olur
+
+yaradilan sehifelerin hisselere bolmek 	<div>  </div> ayri ve ic ice hisseler yaratmaqda hec bir limit yoxdur
+
+yaradilan hissenin adi 			<tag> .. </tag>
+
+block elemetler tam sehifeni tutur css-e aiddi
+
+elave edilen movzunun basligi <h1> .. </h1> (h1, h2, h3, h4, h5, h6) yazilarin olculerinin kicilmeye dogru gedir
+
+basliga aid mezmun          <p1> ... </p1>
+
+setirler arasinda bosluq novbeti setir         <br>
+
+mezmuna sekil elave elemey ucun         <img src +"URL"/>
+
+Hyper Link - mezmunun goturulduyu menbenin linki yerlewdirmey ucun              <a ... </a> ve ya <a ....> ... </a>
+
+elave edilmis linki yeni sehifede acmaq ucun    <a href=".." target="_blank"> ... </a>
+
+yaratmis oldugmuz saytda video yerlesdirmek ucun       <iframe width=".." height=".." src="URL" frameborder="0" allowfulscren> </iframe>

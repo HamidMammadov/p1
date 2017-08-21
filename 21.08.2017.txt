@@ -27,3 +27,5 @@ Hyper Link - mezmunun goturulduyu menbenin linki yerlewdirmey ucun              
 elave edilmis linki yeni sehifede acmaq ucun    <a href=".." target="_blank"> ... </a>
 
 yaratmis oldugmuz saytda video yerlesdirmek ucun       <iframe width=".." height=".." src="URL" frameborder="0" allowfulscren> </iframe>
+
+<a href=".." target="_blank" title="..." > ... </a>  hyper linke izzah verir

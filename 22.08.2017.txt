@@ -1,0 +1,100 @@
+<b> ... </b> Lazim olan esas yazini ferqlendirir ve dran arasina alir qalinlasdirir:
+
+<strong> ... </strong> lazim olan esas yazini ferqlendirir sadece qalinlasdirir:
+
+<i> ... </i> Lazim olan yazini ferqlendirir
+
+<em> ... </m> Lazim olan yazini ferqlendirir
+
+<small> ... </small> Lazim Olan Yazini Balaclaasdirir 
+
+<p style="color: ... "> .... ... </p> Lazim Olan Yazinin Rengini Deyisdirir
+
+<p style="color:rgb(00 , 00 , 00);" > ..... </p>= red green blue -- Lazim Yazinin renginin deyismek ucun isdifade olur rengler 'qirmiz, yasil, blue' isdifade olunur
+
+<p style="color:#....;" > ... </p> Lazim Yazinin renginin deyismek ucun isdifade olur
+
+<a href="new.html" target ="_blank" title=" ... ">     <img src="URL" alt = " ... " />     </a>  sekle link vermey ucun
+
+<a href="new.html" target ="_blank" title=" ... "> ... </a> yaziya link vermey ucun
+
+<ul> 
+
+	<li> ... </li>
+	<li> ... </li>
+	<li> ... </li>
+	<li> ... </li>
+
+
+</ul>   yazilari listelemelek •
+
+<ol> 
+
+	<li> ... </li>
+	<li> ... </li>
+	<li> ... </li>
+	<li> ... </li>
+
+
+</ol>   yazilari listelemelek Saylarla
+
+<table>
+	<tr>
+		<td> 1...
+		</td>	
+		<td> 2...
+		</td>	
+	</tr>
+</table>  cedvel yaratnaq ucun
+
+<table border="1">
+	<tr>
+		<td> 1...
+		</td>	
+		<td> 2...
+		</td>	
+	</tr>
+</table>  cedvele kenarlarna olcu vermey ucun
+
+<table border="1" width ="100%">
+<tbody>	
+	<tr>
+		<td> 1...
+		</td>	
+		<td> 2...
+		</td>	
+	</tr>
+</tbody>
+</table> cedvelde melumatlari yerlesdirmey ucun
+
+<table border="1">
+<thead>	
+	<tr>
+		<th> 1...
+		</th>	
+		<th> 2...
+		</th>	
+	</tr>
+</thead>	
+</table>  cedvele basliq vermey ucun
+
+<table border="1" width ="100% ve ya 500 px">
+<tbody>	
+	<tr>
+		<td> 1...
+		</td>	
+		<td> 2...
+		</td>	
+	</tr>
+</tbody>
+</table> cedvele olcu vermey ucun
+
+colspan = "2 ve ya .." boir nece sutunu birlesdirib birlikde gosderir
+
+style="text-align: centr" yazilari merkezden yazmaq ucun
+
+id=".." her hanis kod hissesi verilen qisa ad  (<head>  <style> #..{ } </style> </head>)
+
+class=".."  bir nece taglari qruplasdirmaq ucun (<head>  <style> ...{ } </style> </head>)
+
+class="..  .." bir nece calslari taglara aid elemey ucun

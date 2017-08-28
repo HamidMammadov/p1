@@ -1,0 +1,18 @@
+<span>   ... (Text)  ... </span>  ---   Metnin icindeki her hansi bir hissesinin gorunusu deyisdirir ferqlendirir +  display:inline-block
+
+.demo>span{ ... }   ---   eger bir klasin icinde bir nece klass varsa her klassdada eyni elemet varsa qeyd etdiymiz klassin icinde 1-ci dereceleri qeyd etdiymiz elementleri secir  ( > )
+
+display:none;   ----    qeyd etdiymiz elemetdi gosdermir
+
+visibility:hidden   ---   secdiymiz elementi gizledir ama yerini bildirir
+
+margin -- menfi ve musbet deyer vermey olar men deyer bir birine yanilasdirir musbet deyer verdikde bir birirnden uzaglasir
+
+padding --  menfi deyer vermey olmur ala bileceyi en asagi deyer "0" - dir
+
+float: ... ;  (left, right, ...)    ----    
+
+clear: ... ;  (left, right, both)   ----   floatla isledikden sora bu kamanda qarasigligi duzeldir
+
+vertical - align: (top)  ... ;    ----     display:inline - blockdan isdifade eledikden sora div qarisigligi duzeldir; ve diger tag - larda
+

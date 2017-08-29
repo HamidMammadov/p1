@@ -1,0 +1,8 @@
+initial  -  deyeri qeyd olunan default deyere qaytarir
+
+inherit  --  deyeri qeyd olunan deyerin bir ust deyeri alir
+
+box-sizing:border-box;   ---   div - e tag - a verilen olcu deyerlerinnen kenara cixmaga elaveler elemeye imkan vermir
+
+box-sizing:content-box;   ---   div - e tag - a verilen olcu deyerlerinnen elave eliyir
+

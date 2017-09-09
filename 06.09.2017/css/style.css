@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.earth-orbit{
+	margin: 50px auto;
+	width: 800px;
+	height: 800px;
+	border: 1px solid black;
+	border-radius: 50%;
+	box-sizing: border-box;
+	position: relative;
+	animation: earth-orbit 36s linear infinite;
+}
+
+.sun{
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 50%;
+	box-sizing: border-box;
+	position: absolute;
+	top: 250px;
+	left: 250px;
+	background-color: #ff5500;
+	vertical-align: middle;
+	animation: sun 36s linear infinite;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 50px;
+	letter-spacing: 5px;
+	font-size: 30px;
+
+}
+
+.moon-orbit{
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 50%;
+	box-sizing: border-box;
+	position: absolute;
+	right: -35px;
+	top: -35px;
+	background-color: white;
+	animation: moon-orbit 5s linear infinite;
+}
+
+.earth{
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	border-radius: 50%;
+	background-color: green;
+}
+
+.moon{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	position: absolute;
+	right: 12px;
+	top: 26px;
+	border-radius: 50%;
+	background-color: lightgray;
+}
+
+@keyframes earth-orbit {
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes moon-orbit {
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes sun {
+	100%{
+		transform: rotate(-360deg);
+	}
+}
